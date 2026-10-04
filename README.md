@@ -1,2 +1,2 @@
 # Testing
-Practice Repo
+Git command for practicing get
